@@ -15,4 +15,7 @@ int main(){
 
     // print output
     printf("The diameter is %.2f and the circumference is %.2f and the area is %.2f", diameter, circumference, area);
+
+    return 0;
+    
 }
